@@ -13,10 +13,10 @@ public class BoxContainer
 		
 	}
 	
-	public BoxContainer(Triangle t1, Cube c1)
+	public BoxContainer(Triangle t1)
 	{
 		Tri01 = t1;
-		cb01 = c1;
+		
 	
 	}
 

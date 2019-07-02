@@ -9,11 +9,17 @@
 							http://www.springframework.org/schema/context
 							http://www.springframework.org/schema/context/spring-context.xsd">
 							
+							
+							
 	<bean id = "tri" class = "com.krish.mathconcept.Triangle"></bean>
 		
-	<bean id = "box" class = "com.krish.mathconcept.BoxContainer"></bean>	
+	<bean id = "box" class = "com.krish.mathconcept.BoxContainer"></bean>
+	
+		
 							
-	<bean id = "cub" class = "com.krish.mathconcept.Cube"></bean>						
+	<bean id = "cub" class = "com.krish.mathconcept.Cube"></bean>		
+	
+	<bean id = "bcn" class = "com.krish.mathconcept."></bean>			
 							
 							
 </beans>
